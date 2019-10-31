@@ -1,0 +1,11 @@
+@CHARSET "ISO-8859-1";
+.register{
+	 background-color:grey;
+    margin-top: 3%;
+    padding: 3%;
+    border-radius: 2.5rem;
+}
+
+.register-heading{
+	font: italic bold 12px/30px Georgia, serif;
+}
